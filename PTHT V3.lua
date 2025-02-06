@@ -5,5 +5,6 @@ return {
       904237, -- DANI
       380470, -- mammedoff
       829938, -- mammedoff add uid
-      153626 -- redmiSOLD
+      153626, -- redmiSOLD
+      417119 -- pertanda
 }
