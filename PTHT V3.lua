@@ -4,5 +4,6 @@ return {
       689533, -- urexas
       904237, -- DANI
       380470, -- mammedoff
-      829938 -- mammedoff add uid
+      829938, -- mammedoff add uid
+      153626 -- redmiSOLD
 }
