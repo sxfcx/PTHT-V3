@@ -6,6 +6,6 @@ return {
       380470, -- mammedoff
       829938, -- mammedoff add uid
       153626, -- redmiSOLD
-      887239 -- pertanda
+      887239, -- pertanda
       290847 -- jerss ptht v1 updgrade
 }
