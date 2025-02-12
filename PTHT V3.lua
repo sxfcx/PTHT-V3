@@ -8,5 +8,6 @@ return {
       153626, -- redmiSOLD
       887239, -- pertanda
       290847, -- jerss ptht v1 updgrade
-      912074 -- cylus
+      912074, -- cylus
+      899317 -- devilmil
 }
