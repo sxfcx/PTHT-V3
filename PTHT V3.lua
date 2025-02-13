@@ -9,5 +9,6 @@ return {
       887239, -- pertanda
       290847, -- jerss ptht v1 updgrade
       912074, -- cylus
-      899317 -- devilmil
+      899317, -- devilmil
+      909130 -- MANTAP ADD UID
 }
