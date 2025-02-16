@@ -10,5 +10,6 @@ return {
       290847, -- jerss ptht v1 updgrade
       912074, -- cylus
       899317, -- devilmil
-      909130 -- MANTAP ADD UID
+      909130, -- MANTAP ADD UID
+      514984 -- Bo3
 }
