@@ -11,5 +11,6 @@ return {
       912074, -- cylus
       899317, -- devilmil
       909130, -- MANTAP ADD UID
-      514984 -- Bo3
+      514984, -- Bo3
+      908133 -- nrwlia
 }
