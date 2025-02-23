@@ -13,5 +13,6 @@ return {
       909130, -- MANTAP ADD UID
       514984, -- Bo3
       908133, -- nrwlia
-      637229 -- Wijenlo
+      637229, -- Wijenlo
+      78693 -- Terminated
 }
