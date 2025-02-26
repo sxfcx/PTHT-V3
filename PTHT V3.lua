@@ -14,5 +14,6 @@ return {
       514984, -- Bo3
       908133, -- nrwlia
       637229, -- Wijenlo
-      78693 -- Terminated
+      78693, -- Terminated
+      918755
 }
