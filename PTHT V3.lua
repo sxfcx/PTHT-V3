@@ -16,5 +16,6 @@ return {
       637229, -- Wijenlo
       78693, -- Terminated
       918755,
-      909159 -- jeszx
+      909159, -- jeszx
+      98025 -- Eynish
 }
