@@ -17,6 +17,6 @@ return {
       78693, -- Terminated
       918755,
       909159, -- jeszx
-      98025, -- Eynish
+      898796, -- Eynish
       164070 -- Lovut
 }
