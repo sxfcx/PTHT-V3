@@ -18,5 +18,6 @@ return {
       918755,
       909159, -- jeszx
       898796, -- Eynish
-      164070 -- Lovut
+      164070, -- Lovut
+      922123 -- tnrembi
 }
