@@ -20,5 +20,6 @@ return {
       898796, -- Eynish
       164070, -- Lovut
       922123, -- tnrembi
-      264683 -- Pattimuracps
+      264683, -- Pattimuracps
+      922873 -- Daoza
 }
