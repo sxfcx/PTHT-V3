@@ -21,5 +21,6 @@ return {
       164070, -- Lovut
       922123, -- tnrembi
       264683, -- Pattimuracps
-      922873 -- Daoza
+      922873, -- Daoza
+      923809 -- Arpell
 }
