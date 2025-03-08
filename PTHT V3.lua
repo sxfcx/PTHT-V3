@@ -22,5 +22,6 @@ return {
       922123, -- tnrembi
       264683, -- Pattimuracps
       922873, -- Daoza
-      923809 -- Arpell
+      923809, -- Arpell
+      508184 -- Makan
 }
