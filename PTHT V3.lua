@@ -23,5 +23,6 @@ return {
       264683, -- Pattimuracps
       922873, -- Daoza
       923809, -- Arpell
-      508184 -- Makan
+      508184, -- Makan
+      902259 -- Vinn
 }
