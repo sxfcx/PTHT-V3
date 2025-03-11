@@ -24,5 +24,6 @@ return {
       922873, -- Daoza
       923809, -- Arpell
       508184, -- Makan
-      902259 -- Vinn
+      902259, -- Vinn
+      132545 -- ohmyrell
 }
