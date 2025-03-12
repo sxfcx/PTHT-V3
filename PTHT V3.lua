@@ -25,5 +25,6 @@ return {
       923809, -- Arpell
       508184, -- Makan
       902259, -- Vinn
-      132545 -- ohmyrell
+      132545, -- ohmyrell
+      827167 -- itermitas
 }
