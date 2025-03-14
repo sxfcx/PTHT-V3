@@ -26,5 +26,6 @@ return {
       508184, -- Makan
       902259, -- Vinn
       132545, -- ohmyrell
-      827167 -- itermitas
+      827167, -- itermitas
+      541944 -- Kenzorok
 }
