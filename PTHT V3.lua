@@ -27,5 +27,6 @@ return {
       902259, -- Vinn
       132545, -- ohmyrell
       827167, -- itermitas
-      541944 -- Kenzorok
+      541944, -- Kenzorok
+      112290 -- Kodokterbang
 }
