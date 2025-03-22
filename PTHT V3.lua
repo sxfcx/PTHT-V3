@@ -31,5 +31,6 @@ return {
       112290, -- Kodokterbang
       186179, -- joopuori
       199852, -- Shan
-      570661 -- Jeremy
+      570661, -- Jeremy
+      613000 -- RAZEN
 }
