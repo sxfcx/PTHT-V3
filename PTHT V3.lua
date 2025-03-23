@@ -23,7 +23,7 @@ return {
       264683, -- Pattimuracps
       922873, -- Daoza
       923809, -- Arpell
-      508184, -- Makan
+      927091, -- Makan aka Hae
       902259, -- Vinn
       132545, -- ohmyrell
       827167, -- itermitas
