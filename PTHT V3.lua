@@ -32,5 +32,6 @@ return {
       186179, -- joopuori
       199852, -- Shan
       570661, -- Jeremy
-      613000 -- RAZEN
+      613000, -- RAZEN
+      932717 -- iXDMater
 }
