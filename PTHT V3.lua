@@ -33,5 +33,6 @@ return {
       199852, -- Shan
       570661, -- Jeremy
       613000, -- RAZEN
-      932717 -- iXDMater
+      932717, -- iXDMater
+      50155  -- SLIMED
 }
