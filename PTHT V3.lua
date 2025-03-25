@@ -34,5 +34,6 @@ return {
       570661, -- Jeremy
       613000, -- RAZEN
       932717, -- iXDMater
-      50155  -- SLIMED
+      50155,  -- SLIMED
+      935221 -- Devv
 }
