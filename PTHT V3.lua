@@ -35,5 +35,6 @@ return {
       613000, -- RAZEN
       932717, -- iXDMater
       50155,  -- SLIMED
-      935221 -- Devv
+      935221, -- Devv
+      931993 -- desca
 }
