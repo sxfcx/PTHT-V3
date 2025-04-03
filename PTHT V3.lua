@@ -36,5 +36,6 @@ return {
       932717, -- iXDMater
       50155,  -- SLIMED
       935221, -- Devv
-      931993 -- desca
+      931993, -- desca
+      827221 -- Kelku ehkä
 }
