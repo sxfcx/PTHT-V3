@@ -37,5 +37,6 @@ return {
       50155,  -- SLIMED
       935221, -- Devv
       931993, -- desca
-      827221 -- Kelku ehkä
+      827221, -- Kelku ehkä
+      104396 -- Bocennn
 }
