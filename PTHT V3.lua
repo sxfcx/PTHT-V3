@@ -43,5 +43,6 @@ return {
       944693, -- Kudobellegt
       945527, -- Aake
       325619,
-      927472 -- Zenoo
+      927472, -- Zenoo
+      948947 -- xsaz
 }
