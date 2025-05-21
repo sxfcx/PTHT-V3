@@ -46,5 +46,6 @@ return {
       927472, -- Zenoo
       948947, -- xsaz
       65444, -- Arthur
-      480302 -- garhead1
+      480302, -- garhead1
+      138973 -- Aminari
 }
